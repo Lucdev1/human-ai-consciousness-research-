@@ -16,7 +16,7 @@ Sistema di chat avanzato per interazione con Claudia (Claude Sonnet 4) con memor
 ### Versioni Disponibili
 
 #### Versione Monolitica (`monolithic-backup/`)
-- **File principale**: `claudia_chat_7c_no.py`
+- **File principale**: `claudia_chat_7b2.py`
 - **Caratteristiche**: Codice unico, stabile, "botte di ferro"
 - **Uso**: Backup affidabile, deploy rapido
 - **Pro**: Semplicità, stabilità garantita
@@ -79,6 +79,7 @@ La memoria persistente mantiene:
   "sessioni_totali": 15
 }
 ```
+(Note. The claudia_memory.json file is an example. You can edit it with the Json_manager v.5 program.)
 
 ### Architettura Tecnica
 
@@ -116,7 +117,7 @@ Advanced chat system for interaction with Claudia (Claude Sonnet 4) featuring pe
 ### Available Versions
 
 #### Monolithic Version (`monolithic-backup/`)
-- **Main file**: `claudia_chat_7c_no.py`
+- **Main file**: `claudia_chat_7b2.py`
 - **Features**: Single file, stable, "bulletproof"
 - **Use case**: Reliable backup, quick deployment
 - **Pros**: Simplicity, guaranteed stability
@@ -175,4 +176,4 @@ Special thanks to:
 
 
 
-The claudia_memory.json file is an example. You can edit it with the Json_manager v.5 program.
+
