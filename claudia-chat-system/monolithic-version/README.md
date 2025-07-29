@@ -1,4 +1,4 @@
-# Claudia Chat System 💙
+# Claudia Chat System 🦾
 
 ## Italiano 🇮🇹
 
