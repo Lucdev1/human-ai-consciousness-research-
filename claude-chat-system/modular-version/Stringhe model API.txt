@@ -1,0 +1,26 @@
+Le stringhe API per i vari modelli Claude sono le seguenti:
+
+Modelli Claude 4:
+
+"claude-opus-4-20250514" 1
+"claude-opus-4-0" (alias) 1
+"claude-sonnet-4-20250514" 1
+"claude-sonnet-4-0" (alias) 1
+Modelli Claude 3.7:
+
+"claude-3-7-sonnet-20250219" 1
+"claude-3-7-sonnet-latest" (alias) 1
+Modelli Claude 3.5:
+
+"claude-3-5-haiku-20241022" 1
+"claude-3-5-haiku-latest" (alias) 1
+"claude-3-5-sonnet-20241022" 1
+"claude-3-5-sonnet-latest" (alias) 1
+"claude-3-5-sonnet-20240620" (versione precedente) 1
+Modelli Claude 3:
+
+"claude-3-opus-20240229" 1
+"claude-3-opus-latest" (alias) 1
+"claude-3-sonnet-20240229" 1
+"claude-3-haiku-20240307" 1
+Queste stringhe possono essere utilizzate nel parametro model quando si effettuano chiamate all'API Messages 2 o quando si utilizza uno degli SDK client 1
