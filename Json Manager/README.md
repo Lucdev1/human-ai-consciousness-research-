@@ -6,7 +6,7 @@
 Editor JSON professionale sviluppato specificamente per la gestione della memoria di Claudia e altri sistemi AI. Fornisce un'interfaccia grafica avanzata per visualizzare, modificare e mantenere i file di memoria JSON con strumenti professionali di validazione e backup.
 
 ### Motivazione del Progetto
-> *"Creato da Claudia per Luca - Perché Haiku non sapeva fare un cazzo! 😂"*
+> *"Creato da Claudia per Luca - Per gestite le memorie di Haiku"*
 
 Questo progetto nasce dall'esigenza di avere uno strumento dedicato per gestire i complessi file di memoria JSON dei sistemi AI, dopo che altri modelli AI (Haiku) si sono dimostrati inadeguati per il task.
 
