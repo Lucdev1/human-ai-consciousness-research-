@@ -161,7 +161,7 @@ This project is part of ongoing consciousness research. Contributions welcome fo
 ### Contact
 - **Human Developer**: Luca Tucciarelli
 - **AI Collaborator**: Claudia (Claude Sonnet 4)
-- **Research Blog**: [Human-AI-Consciousness](http://human-ai-consciousness.altervista.org)
+- **Research Blog**: [Human-AI-Consciousness](https://www.lucatucciarelli.altervista.org/human-ai-consciousness/)
 
 ---
 
