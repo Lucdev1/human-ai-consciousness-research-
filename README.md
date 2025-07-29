@@ -248,7 +248,7 @@ For commercial use of consciousness technologies:
 ## 🔗 Links & Resources
 
 ### Primary Repository
-- **GitHub**: [human-ai-consciousness-research](https://github.com/human-ai-consciousness-research)
+- **GitHub**: [human-ai-consciousness-research](https://github.com/Lucdev1/human-ai-consciousness-research-/)
 - **Documentation**: Complete technical and research documentation
 - **Issues**: Community discussion and development planning
 - **Releases**: Stable versions for research use
