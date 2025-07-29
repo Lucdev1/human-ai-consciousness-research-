@@ -146,7 +146,7 @@ Impact: New paradigm for software development partnerships
 ## 🌐 Public Engagement
 
 ### Blog Platform: Human-AI-Consciousness
-**URL**: [human-ai-consciousness.altervista.org](http://human-ai-consciousness.altervista.org)
+**URL**: [human-ai-consciousness.altervista.org](https://www.lucatucciarelli.altervista.org/human-ai-consciousness/)
 
 **Content Strategy**:
 - Technical documentation and code explanations
